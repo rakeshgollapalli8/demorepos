@@ -790,12 +790,12 @@
             
             <nav id="mainNav">
                 <ul>
-                    <li><a href="#"><em class="fas fa-home"></em> Home</a></li>
+                    <li><a href="#"><i class="fas fa-home"></i> Home</a></li>
                     <li class="dropdown">
-                        <a href="#"><em class="fas fa-th-large"></em> Categories <em class="fas fa-chevron-down"></em></a>
+                        <a href="#"><i class="fas fa-th-large"></i> Categories <em class="fas fa-chevron-down"></em></a>
                         <div class="dropdown-content">
-                            <a href="#"><em class="fas fa-mobile-alt"></em> Smartphones</a>
-                            <a href="#"><em class="fas fa-laptop"></em> Laptops</a>
+                            <a href="#"><i class="fas fa-mobile-alt"></i> Smartphones</a>
+                            <a href="#"><i class="fas fa-laptop"></i> Laptops</a>
                             <a href="#"><i class="fas fa-tshirt"></i> Clothing</a>
                             <a href="#"><i class="fas fa-headphones"></i> Gadgets</a>
                             <a href="#"><i class="fas fa-shoe-prints"></i> Footwear</a>
