@@ -786,7 +786,7 @@
     <!-- Header -->
     <header>
         <div class="container header-container">
-            <a href="#" class="logo">Nexus<span>Shop</span></a>
+            <a href="#" class="logo">SANTHOSH<span>Shop</span></a>
             
             <nav id="mainNav">
                 <ul>
@@ -794,8 +794,8 @@
                     <li class="dropdown">
                         <a href="#"><i class="fas fa-th-large"></i> Categories <em class="fas fa-chevron-down"></em></a>
                         <div class="dropdown-content">
-                            <a href="#"><i class="fas fa-mobile-alt"></i> Smartphones</a>
-                            <a href="#"><i class="fas fa-laptop"></i> Laptops</a>
+                            <a href="#"><i class="fas fa-mobile-alt"></i> CARS</a>
+                            <a href="#"><i class="fas fa-laptop"></i> BIKES</a>
                             <a href="#"><i class="fas fa-tshirt"></i> Clothing</a>
                             <a href="#"><i class="fas fa-headphones"></i> Gadgets</a>
                             <a href="#"><i class="fas fa-shoe-prints"></i> Footwear</a>
