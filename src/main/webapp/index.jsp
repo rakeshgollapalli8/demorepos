@@ -25,7 +25,7 @@
         body {
             font-family: 'Inter', sans-serif;
             color: var(--dark);
-            background-color: white;
+            background-color: green;
             line-height: 1.6;
         }
 
@@ -786,7 +786,7 @@
     <!-- Header -->
     <header>
         <div class="container header-container">
-            <a href="#" class="logo">SANTHOSH<span>Shop</span></a>
+            <a href="#" class="logo">MANICHARAN<span>Shop</span></a>
             
             <nav id="mainNav">
                 <ul>
